@@ -1,12 +1,12 @@
 
 <h1 align="left">#Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jailson Lima</h1>
 
-➤ **About me**
+➤ &nbsp;About me
 - 🎓 Information Systems (UFPI)
 - 🌎 I'm from Picos - Piaui, Brasil
 - 📚 I’m currently studying at <a href="https://github.com/Rocketseat">@Rocketseat </a> 
 - 👨‍💻 I’m currently learning **HTML, CSS, JAVASCRIPT, GIT, NODE.JS, JQeury.**
-
+ <h1></h1>
 
 ## 🛠 &nbsp;Development Tools
 
@@ -22,7 +22,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics 
 
 
 ## 📸 &nbsp;Social Links
